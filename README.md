@@ -8,7 +8,8 @@ Performs data preprocessing, including molecule embedding and feature extraction
 Implements regression modeling using statsmodels for solubility prediction.
 Provides functionality to visualize and analyze model performance.
 
-##Requirements
+## Requirements
+
 Python 3.x
 RDKit
 Mordred
