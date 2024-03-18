@@ -14,12 +14,19 @@ Provides functionality to visualize and analyze model performance.
 ## Requirements
 
 Python 3.x
+
 RDKit
+
 Mordred
+
 Pandas
+
 NumPy
+
 Seaborn
+
 Matplotlib
+
 Statsmodels
 
 ## Data
