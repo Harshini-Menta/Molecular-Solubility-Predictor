@@ -4,8 +4,11 @@ This repository contains code for a Molecular Solubility Predictor, a project ai
 
 ## Features
 Utilizes RDKit and Mordred libraries for molecular descriptor calculation.
+
 Performs data preprocessing, including molecule embedding and feature extraction.
+
 Implements regression modeling using statsmodels for solubility prediction.
+
 Provides functionality to visualize and analyze model performance.
 
 ## Requirements
